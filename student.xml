@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students system "student.dtd">
+    <student>
+        <name>Pat Cummins</name>
+        <usn>eng23456</usn>
+        <year>2</year>
+        <semaster>3</semaster>
+    </student>
